@@ -62,7 +62,9 @@ Voici a quoi ressemble une partie dans la console :
 
 ![Demarrage du jeu](captures/demarrage.png)
 
-![Pendant la partie](captures/partie.png)
+![Bonne lettre](captures/bonne.png)
+
+![Mauvaise lettre](captures/mauvaise.png)
 
 A la fin, le programme affiche soit :
 
